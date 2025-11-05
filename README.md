@@ -25,7 +25,7 @@ Make sure you have the following installed on your development machine:
 
 ## 🚀 Getting Started
 
-Follow these steps to get started with the react-vite-ts template:
+Follow these steps to get started with the react-ts-vite-zustand template:
 
 1. Clone the repository:
 
@@ -36,7 +36,7 @@ Follow these steps to get started with the react-vite-ts template:
 2. Navigate to the project directory:
 
    ```bash
-   cd react-vite-ts
+   cd react-ts-vite-zustand
    ```
 
 3. Install the dependencies:
@@ -63,7 +63,7 @@ Follow these steps to get started with the react-vite-ts template:
 The project structure follows a standard React application layout:
 
 ```python
-react-vite-ts/
+react-ts-vite-zustand/
   ├── node_modules/                # Project dependencies
   ├── public/                      # Public assets
   ├── src/                         # Application source code
